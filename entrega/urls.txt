@@ -1,4 +1,4 @@
 Repo GitHub: https://github.com/Rdrgrvram/examen-final_Cloud
 S3 web (Lab 2): http://mundial-web-rodrigorivera.s3-website-us-east-1.amazonaws.com
-API Gateway base (Lab 3):
+API Gateway base (Lab 3):https://apu0t9nuie.execute-api.us-east-1.amazonaws.com/prod
 Kubernetes puerto 30080 (Lab 4):
